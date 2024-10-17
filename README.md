@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21458
-Fork on GitHub
-6760
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Salma Dalaty</h1>
 <h3 align="center">I am a full stack developer</h3>
 
