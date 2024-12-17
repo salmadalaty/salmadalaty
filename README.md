@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Salma Dalaty</h1>
-<h3 align="center">I am a full stack developer</h3>
-
+<!-- <h3 align="center">I am a full stack developer</h3> -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&weight=800&size=30&pause=1000&color=FF2896&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmadalaty&label=Profile%20views&color=0e75b6&style=flat" alt="salmadalaty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmadalaty" alt="salmadalaty" /></a> </p>
