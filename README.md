@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&weight=800&size=30&pause=1000&color=FF2896&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmadalaty&label=Profile%20views&color=0e75b6&style=flat" alt="salmadalaty" /> </p>
-
+<img src="https://preview.redd.it/elpf85ngcvp61.jpg?width=1080&crop=smart&auto=webp&s=01eeb9f8bfec5eb592f6e75ad324c2adac8f2810">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmadalaty" alt="salmadalaty" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
